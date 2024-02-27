@@ -91,3 +91,19 @@ h1 {
 #show5 {
     color: #9370DB;
 }
+
+ul {
+    color: #0000CD;
+}
+
+.star {
+    color: #BA55D3;
+}
+
+#wars {
+    color: #00FF00;
+}
+
+.listBorder {
+    border: solid 2px black
+}
